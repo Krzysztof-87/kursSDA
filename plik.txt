@@ -1,1 +1,2 @@
-zmiana pliku na a nie stary 
+zmiana pliku na a nie stary
+dodaje nowy modul auu 
